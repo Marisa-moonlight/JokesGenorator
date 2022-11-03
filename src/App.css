@@ -1,0 +1,19 @@
+* {
+  background: cyan;
+  box-sizing: border-box;
+}
+#joke-box{
+  background-color: white;
+  border: 5px white solid;
+  border-radius: 5px;
+  margin: 70px auto;
+  padding: 30px;
+  width: 1000px;
+}
+#text{
+  font-size: 30px;
+}
+
+#new-joke{
+  background-color: white;
+}
